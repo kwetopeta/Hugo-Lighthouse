@@ -7,7 +7,7 @@ Enter lighthouse! Lighthouse is an open-source, automated tool for improving the
 |     Name               |  P |  A  |  B  |          S |
 |------------------------|----|-----|-----|------------|
 |       T E R M I N A L  | 88 | 100 | 100 | 92         |
-|                        |    |     |     |            |
+|        RISOTTO                 |  97  |   97  |   100   |   95         |
 |                        |    |     |     |            |
 
 
