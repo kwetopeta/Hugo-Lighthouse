@@ -1,6 +1,6 @@
 |===
 |Theme Name |Performance |Accessibility |Best Practices |SEO | | | | | | |
-|Terminal
+|https://github.com/panr/hugo-theme-terminal[Terminal]
 |88
 |100
 |100
